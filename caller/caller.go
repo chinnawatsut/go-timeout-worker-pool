@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	pool "go-timeout-worker-pool/worker-pool"
+	pool "go-timeout-worker-pool/workerpool"
 	"log"
 	"net/http"
 	"strconv"
